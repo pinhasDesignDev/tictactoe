@@ -1,0 +1,8 @@
+7
+56C:\Users\andre\Desktop\DEVELOP\React\my-app\package.json132894266401790218 0
+54C:\Users\andre\Desktop\DEVELOP\React\my-app\.gitignore132791695440000000 0
+54C:\Users\andre\Desktop\DEVELOP\React\my-app\index.html132791695440000000 0
+57C:\Users\andre\Desktop\DEVELOP\React\my-app\src\index.jsx132791695440000000 0
+53C:\Users\andre\Desktop\DEVELOP\React\my-app\README.md132791695440000000 0
+55C:\Users\andre\Desktop\DEVELOP\React\my-app\src\App.jsx132791695440000000 0
+47C:\Users\andre\Desktop\DEVELOP\React\my-app\src132894241733398705 1
